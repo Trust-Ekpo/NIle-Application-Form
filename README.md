@@ -1,2 +1,2 @@
 # NIle-Application-Form
-An application form for nile university
+A simple application form crealted while learning HTML & CSS 
